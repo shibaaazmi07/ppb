@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">biodata</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="alamat">Alamat</string>
+    <string name="button">Button</string>
+    <string name="email">Email</string>
+    <string name="no_telp">No telp</string>
+    <string name="hobi">Hobi</string>
+    <string name="deskipsi">Deskipsi</string>
+    <string name="komik">Membaca komik</string>
+    <string name="nim2">A11_2020_12662</string>
+    <string name="nama2">Shibaa Azmi Farros A.</string>
+    <string name="mahasiswi">Mahasiswi semester 3 Teknik Informatika UDINUS</string>
+
+</resources>
